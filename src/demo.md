@@ -45,6 +45,7 @@ println!("hello!");
 ````md
 ```python
 print("hello")
+print("world")
 ```
 ````
 
@@ -52,6 +53,7 @@ print("hello")
 
 ```python
 print("hello")
+print("world")
 ```
 
 <details><summary>Python code block with hidden lines:</summary>
@@ -89,7 +91,8 @@ python = "~"
 ````md
 ```python
 print("hello")
-~ print("world")
+print("world")
+~ print("hidden")
 ```
 ````
 
@@ -97,5 +100,6 @@ print("hello")
 
 ```python
 print("hello")
-~ print("world")
+print("world")
+~ print("hidden")
 ```
