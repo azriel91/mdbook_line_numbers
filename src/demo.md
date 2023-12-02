@@ -1,4 +1,4 @@
-# Chapter 1
+# Demo
 
 <details><summary>Rust code block:</summary>
 
