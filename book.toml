@@ -7,6 +7,9 @@ title = "mdbook Line Numbers Demo"
 
 [output.html]
 additional-js = ["js/highlightjs-line-numbers.js"]
+cname = "azriel.im"
+git-repository-url = "https://github.com/azriel91/mdbook_line_numbers"
+edit-url-template = "https://github.com/azriel91/mdbook_line_numbers/edit/main/{path}"
 
 [output.html.code.hidelines]
 python = "~"
